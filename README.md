@@ -15,4 +15,4 @@
 
 ## Możliwe dodatkowe rozwiązania w dalszym rozwijaniu aplikacji 
 - Obsługa systemu kodów rabatowych 
-- System powiadomień dla klientów (np. zmiana cen, anulowanie wydarzenie itp.)
+- System powiadomień dla klientów (np. zmiana cen, anulowanie wydarzenia itp.)
