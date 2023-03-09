@@ -14,5 +14,5 @@
 - Zarządzanie danymi dotyczącymi wydarzeń, takimi jak daty, godziny, miejsce, itp.
 
 ## Możliwe dodatkowe rozwiązania w dalszym rozwijaniu aplikacji 
-- Obsługa systemu kodu rabatowych 
+- Obsługa systemu kodów rabatowych 
 - System powiadomień dla klientów (np. zmiana cen, anulowanie wydarzenie itp.)
